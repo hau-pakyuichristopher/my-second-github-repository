@@ -1,4 +1,4 @@
 # my-second-github-repository
 Here is my second github repository. Let's Get started with Github
 
-README.md file was just edited manually. This file was modified locally
+This line was modified manually during conflict resolution.
